@@ -19,7 +19,7 @@ public class Nationality {
 
         private String countryId;
         private float probability;
-        
+
 
     }
 
